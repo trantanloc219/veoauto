@@ -1,0 +1,5 @@
+{
+  "name": "Video Storyboard AI",
+  "description": "An application that allows users to automatically generate videos from text prompts using VEO. The process includes creating a story, defining characters, configuring output, and reviewing a summary before generating the final video.",
+  "requestFramePermissions": []
+}
